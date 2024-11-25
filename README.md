@@ -5,11 +5,11 @@ This project is a solution to the [Frontend Mentor Social Proof Section challeng
 ## Table of Contents
 
 - [Overview](#overview)
-- [The Challenge](#Socail Proof Section Challenge)
+- [The Challenge](#the-challenge)
 - [Links](#links)
 - [Screenshots](#screenshots)
-- [Built With](#Mohamed Ali)
-- [Continued Development](#False)
+- [Built With](#built-with)
+- [Continued Development](#continued-development)
 - [Useful Resources](#useful-resources)
 - [Author](#author)
 
@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [View Live Demo](#https://mohamed-a-7.github.io/Social-Proof-Section/)
-- Solution URL: [View Code on GitHub](#https://github.com/Mohamed-A-7/Social-Proof-Section)
+- Live Site URL: [Live Demo](https://mohamed-a-7.github.io/Social-Proof-Section/)
+- Solution URL: [View Code on GitHub](https://github.com/Mohamed-A-7/Social-Proof-Section)
 
 ---
 
@@ -39,25 +39,28 @@ Users should be able to:
 
 ### Mobile View
 
-## ![Mobile Screenshot](./design/mobile-design.jpg)
+![Mobile Screenshot](./design/mobile-design.jpg)
+
+---
 
 ## Built With
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
-- [League Spartan](https://fonts.google.com/specimen/League+Spartan) - Font from Google Fonts
+- **HTML5** semantic markup.
+- **CSS** with:
+  - Custom properties (CSS Variables).
+  - Flexbox for layout design.
+- **Mobile-first workflow** for responsiveness.
+- Font: [League Spartan](https://fonts.google.com/specimen/League+Spartan) from Google Fonts.
 
 ---
 
 ## Continued Development
 
-I aim to improve by:
+I aim to improve this project by:
 
-- Enhancing accessibility, such as adding `aria-labels` to elements where appropriate.
-- Exploring additional animations to enhance the user experience (e.g., fade-ins for testimonials).
-- Experimenting with grid layouts to handle the card arrangement dynamically.
+- Enhancing accessibility, such as adding `aria-labels` where appropriate.
+- Adding animations like fade-ins to enhance the user experience.
+- Experimenting with grid layouts to dynamically arrange the cards.
 
 ---
 
@@ -71,8 +74,6 @@ I aim to improve by:
 
 ## Author
 
-- GitHub - [YourGitHubUsername](https://github.com/Mohamed-A-7)
-- LinkedIn - [YourLinkedInProfile](https://linkedin.com/in/Mohamed-7-Okasha)
-- Qabilah - [YourQabilahAccount](https://qabilah.com/mohamed-a-7)
-
----
+- **GitHub** - [Mohamed Ali](https://github.com/Mohamed-A-7)
+- **LinkedIn** - [Mohamed Ali](https://linkedin.com/in/Mohamed-7-Okasha)
+- **Qabilah** - [Mohamed Ali](https://qabilah.com/mohamed-a-7)
